@@ -1,0 +1,6 @@
+image: mistzzt/alr-course-envs:pa1_ubuntu1804
+tasks:
+  - init: mvn package
+vscode:
+  extensions:
+    - vscjava.vscode-java-pack

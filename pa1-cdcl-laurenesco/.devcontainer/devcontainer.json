@@ -1,0 +1,11 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
+// https://github.com/microsoft/vscode-dev-containers/tree/v0.205.2/containers/java
+{
+	"name": "ALR Ubuntu 18.04",
+	"image": "mistzzt/alr-course-envs:pa1_ubuntu1804",
+	
+	// Add the IDs of extensions you want installed when the container is created.
+	"extensions": [
+		"vscjava.vscode-java-pack"
+	],
+}
